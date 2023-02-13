@@ -4,6 +4,7 @@
 
 body{
   background-color: white;
+  text-align:justify;
 }
 
 header{
@@ -37,11 +38,43 @@ header{
 background-color: #FFFF00;
 }
 
+table{
+  width: 700px;
+  text-align: justify;
+  border-spacing: 0px;
+}
+
+th {
+  color: white;
+  background-color:#4EA0FF;
+  margin: 0%;
+}
+
+.riga1 , .riga3{
+background-color: #B1E5F2;
+}
+
+
+
 .footer{
   color: grey;
 }
 
 .monitor{
-margin-top: 15px;
+  margin-top: 15px;
+  position: relative;
+
+  }
+
+.testofotofooter{
+  position: absolute;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.graph{
+  position: relative;
+}
+
+
 

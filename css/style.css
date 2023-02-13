@@ -12,3 +12,31 @@ header{
   background-image:url(../img/pattern.png);
 }
 
+.sommario{
+  color:grey;
+}
+.booleaner{
+  color: blue;
+}
+
+.descrizionefoto{
+  font-size:small;
+}
+
+.lorem{
+  margin-top: 10px;
+}
+
+.listalorem {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.testoevidenziato {
+background-color: #FFFF00;
+}
+
+.table {
+  text-align: justify;
+}
+

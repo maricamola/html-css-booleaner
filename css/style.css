@@ -7,7 +7,7 @@ body{
 }
 
 header{
-  height: 100px;
+  height: 80px;
   background-color: #4EA0FF;
   background-image:url(../img/pattern.png);
 }
@@ -25,6 +25,7 @@ header{
 
 .lorem{
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .listalorem {
@@ -36,7 +37,11 @@ header{
 background-color: #FFFF00;
 }
 
-.table {
-  text-align: justify;
+.footer{
+  color: grey;
+}
+
+.monitor{
+margin-top: 15px;
 }
 
